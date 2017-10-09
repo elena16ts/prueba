@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "nombre": "Israel Parra",
+        "primerApellido": "Israel Parra",
+        "segundoApellido": "Israel Parra",
+        "edad": 2,
+        "profesion": "Programador Web",
+        "descripcion": "Programador Web",
+        "user": "aaaa",
+        "pss": "aaaa"
+    },
+    {
+        "id": 1,
+        "nombre": "Pepe",
+        "primerApellido": "Israel Parra",
+        "segundoApellido": "Israel Parra",
+        "edad": 22,
+        "profesion": "Programador Web",
+        "descripcion": "Programador Web",
+        "user": "aaaa",
+        "pss": "aaaa"
+
+    },
+    {
+        "id": 2,
+        "nombre": "Juan",
+        "primerApellido": "Israel Parra",
+        "segundoApellido": "Israel Parra",
+        "edad": 12,
+        "profesion": "Programador Web",
+        "descripcion": "Programador Web",
+        "user": "aaaa",
+        "pss": "aaaa"
+
+    }
+]
